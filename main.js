@@ -1,4 +1,4 @@
 function changeBackgroundColor(color){
- document.body.style.background = 'white';
+ document.body.style.background = color;
 }
 
